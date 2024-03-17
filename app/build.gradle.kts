@@ -72,6 +72,8 @@ dependencies {
     // Kotlin Components
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.1")
     implementation("androidx.room:room-ktx:2.6.1")
+    implementation("androidx.compose.material3:material3-android:1.2.1")
+    implementation("androidx.wear.compose:compose-material:1.3.0")
 
     // Testing
     testImplementation("junit:junit:4.13.2")
